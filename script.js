@@ -181,4 +181,3 @@ function moveToNextInput(event, nextInputId) {
 		document.getElementById(nextInputId).focus();
 	}
 }
-
